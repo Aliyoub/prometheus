@@ -10,6 +10,7 @@ const Header = () => {
       <div className="container">
         <div className="logo-wrapper">
           <div className="logo">
+	  <img src={require('./assets/prometheus.svg')} />
             <span>Prometheus</span>
           </div>
           <button onClick={() => setIsDark(!isDark)} className="icon">{isDark ? <MoonIcon /> : <SunIcon />}</button>
