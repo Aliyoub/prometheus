@@ -1,6 +1,6 @@
 # Useful JavaScript Code Snippets
 
-1. Sort an Array
+1. MONITORING AVEC PROMETHEUS
 
 <Code language="javascript">
 //strings
