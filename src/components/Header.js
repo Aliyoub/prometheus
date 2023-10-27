@@ -12,7 +12,7 @@ return (
       <div className="container">
         <div className="logo-wrapper">
           <div className="logo">
-	  <img src={prometheusIcon} />
+	  <img src={{prometheusIcon}} />
             <span>Prometheus</span>
           </div>
           <button onClick={() => setIsDark(!isDark)} className="icon">{isDark ? <MoonIcon /> : <SunIcon />}</button>
