@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { ThemeContext } from "../App";
-import { LogoIcon, MoonIcon, SunIcon } from "./assets/icons";
+import { LogoIcon, MoonIcon, SunIcon, PrometheusIcon } from "./assets/icons";
 
 const Header = () => {
   const { isDark, setIsDark } = useContext(ThemeContext);
@@ -10,7 +10,7 @@ const Header = () => {
       <div className="container">
         <div className="logo-wrapper">
           <div className="logo">
-            <LogoIcon />
+            <PrometheusIcon />
             <span>Prometheus</span>
           </div>
           <button onClick={() => setIsDark(!isDark)} className="icon">{isDark ? <MoonIcon /> : <SunIcon />}</button>
