@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prometheus-blog/static/css/main.2ed36266.css",
-    "main.js": "/prometheus-blog/static/js/main.b7eb3b44.js",
+    "main.js": "/prometheus-blog/static/js/main.a73c7a2b.js",
     "static/js/637.c9e345a3.chunk.js": "/prometheus-blog/static/js/637.c9e345a3.chunk.js",
     "static/media/article.md": "/prometheus-blog/static/media/article.d5b8c9a535cd1aa2aa15.md",
     "index.html": "/prometheus-blog/index.html",
     "main.2ed36266.css.map": "/prometheus-blog/static/css/main.2ed36266.css.map",
-    "main.b7eb3b44.js.map": "/prometheus-blog/static/js/main.b7eb3b44.js.map"
+    "main.a73c7a2b.js.map": "/prometheus-blog/static/js/main.a73c7a2b.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed36266.css",
-    "static/js/main.b7eb3b44.js"
+    "static/js/main.a73c7a2b.js"
   ]
 }
