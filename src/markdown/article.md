@@ -1,6 +1,4 @@
-# Useful JavaScript Code Snippets
-
-1. MONITORING AVEC PROMETHEUS
+# MONITORING AVEC PROMETHEUS
 
 <Code language="javascript">
 //strings
