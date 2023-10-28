@@ -1,8 +1,11 @@
 # 1. INSTALLATION
-
-```bash
+Mise à jour des paquets
+<Code language="javascript">
 sudo apt-get update
-```
+</Code>
+
+![Image](../components/assets/images/vagrant-up.png)
+
 <Code language="javascript">
 //strings
 const names = ["Seema", "Rekha", "Jaya"];
