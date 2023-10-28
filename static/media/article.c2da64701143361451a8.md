@@ -1,4 +1,4 @@
-# MONITORING AVEC PROMETHEUS
+# 1. INSTALLATION
 
 <Code language="javascript">
 //strings
