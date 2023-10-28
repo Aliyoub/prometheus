@@ -58,6 +58,11 @@ header .logo span {
   margin-left: 0.5rem;
 }
 
+
+header .logo span.title {
+ font-size: 2rem
+}
+
 /* Post */
 .article {
   margin: 4rem 0;
