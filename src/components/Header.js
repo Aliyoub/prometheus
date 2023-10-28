@@ -13,7 +13,6 @@ return (
         <div className="logo-wrapper">
           <div className="logo">
 	  <img src={prometheusIcon} width="100" height="50"/>
-	  <PrometheusIcon />
             <span className="title">Prometheus</span>
           </div>
           <button onClick={() => setIsDark(!isDark)} className="icon">{isDark ? <MoonIcon /> : <SunIcon />}</button>
