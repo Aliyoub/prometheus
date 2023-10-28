@@ -1,4 +1,4 @@
-# 1. INSTALLATION
+## 1. INSTALLATION
 <span style="color:#E6522B"> Mise à jour des paquets </span>
 <Code language="bash">
 sudo apt-get update
@@ -6,20 +6,35 @@ sudo apt-get update
 
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-update.png" style="width:100%;"/>
 
+
+<span style="color:#E6522B"> Installation de Prometheus </span>
+<Code language="bash">
+sudo apt-get install prometheus
+</Code>
+
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+
+<span style="color:#E6522B">Instanciation de la machine virtuelle</span>
+<Code language="bash">
+sudo vagrant up
+</Code>
 
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-up.png" style="width:100%;"/>
 
-
+<span style="color:#E6522B">Affichage de la machine virtuelle définie depuis le fichier Vagrantfile</span>
+<Code language="bash">
+sudo vagrant virtualbox
+</Code>
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-in-virtualbox.png" style="width:100%;"/>
 
+
+<span style="color:#E6522B">Accès à la machine virtuelle par ssh</span>
+<Code language="bash">
+sudo vagrant ssh prometheus
+</Code>
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-ssh-prometheus.png" style="width:100%;"/>
 
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-start.png" style="width:100%;"/>
-
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-status.png" style="width:100%;"/>
-
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-interface.png" style="width:100%;"/>
 
 <Code language="javascript">
 //strings
