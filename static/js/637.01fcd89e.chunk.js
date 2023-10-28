@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprometheus_blog=self.webpackChunkprometheus_blog||[]).push([[637],{7637:function(e,s,t){e.exports=t.p+"static/media/article.09d8f5cf416aed399f01.md"}}]);

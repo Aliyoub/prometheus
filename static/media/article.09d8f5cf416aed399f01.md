@@ -1,5 +1,8 @@
 # 1. INSTALLATION
 
+```bash
+sudo apt-get update
+```
 <Code language="javascript">
 //strings
 const names = ["Seema", "Rekha", "Jaya"];
