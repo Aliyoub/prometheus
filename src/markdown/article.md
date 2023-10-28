@@ -33,7 +33,7 @@ sudo vagrant virtualbox
 <Code language="bash">
 sudo vagrant ssh prometheus
 </Code>
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-ssh-prometheus.png" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-ssh-prometheus.png" style="width:100%; margin-bottom:20px"/>
 
 
 <Code language="javascript">
