@@ -1,6 +1,6 @@
 # 1. INSTALLATION
 <span style="color:#E6522B"> Mise à jour des paquets </span>
-<Code language="javascript">
+<Code language="bash">
 sudo apt-get update
 </Code>
 
@@ -11,7 +11,7 @@ sudo apt-get update
 //strings
 const names = ["Seema", "Rekha", "Jaya"];
 names.sort();
-//['Jaya', 'Rekha', 'Seema' ]
+//[sudo apt-get update]
 
 //Numbers
 const numbers = [101, 8, 87];
