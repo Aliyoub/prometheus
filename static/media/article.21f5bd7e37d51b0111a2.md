@@ -1,5 +1,5 @@
 # 1. INSTALLATION
-Mise à jour des paquets
+<span style="color:#E6522B"> Mise à jour des paquets </span>
 <Code language="javascript">
 sudo apt-get update
 </Code>
