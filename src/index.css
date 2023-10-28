@@ -60,7 +60,8 @@ header .logo span {
 
 
 header .logo span.title {
- font-size: 2rem
+ font-size: 2rem;
+ color: #E6522B
 }
 
 /* Post */
