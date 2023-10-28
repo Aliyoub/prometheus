@@ -4,8 +4,7 @@
 sudo apt-get update
 </Code>
 
-![Image](src/components/assets/images/vagrant-up.png)
-![Image](images/vagrant-up.png)
+![Image](https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png)
 
 <Code language="javascript">
 //strings
