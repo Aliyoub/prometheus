@@ -4,7 +4,7 @@
 sudo apt-get update
 </Code>
 
-![Image](../components/assets/images/vagrant-up.png)
+![Image](src/components/assets/images/vagrant-up.png)
 ![Image](images/vagrant-up.png)
 
 <Code language="javascript">
