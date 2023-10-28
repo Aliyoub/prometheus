@@ -3,7 +3,7 @@
 <Code language="bash">
 sudo apt-get update
 </Code>
-<p style="width: 300px">
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
 ![Image](https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png)
 </p>
 
