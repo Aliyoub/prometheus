@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/prometheus-blog/static/css/main.534e3cd9.css",
-    "main.js": "/prometheus-blog/static/js/main.497ba7b1.js",
-    "static/js/637.8365a7b6.chunk.js": "/prometheus-blog/static/js/637.8365a7b6.chunk.js",
-    "static/media/article.md": "/prometheus-blog/static/media/article.fb6ac25f6338827023c8.md",
+    "main.js": "/prometheus-blog/static/js/main.5cabe275.js",
+    "static/js/637.183cbe07.chunk.js": "/prometheus-blog/static/js/637.183cbe07.chunk.js",
+    "static/media/article.md": "/prometheus-blog/static/media/article.22da927de1f10cfeec06.md",
     "static/media/prometheus.svg": "/prometheus-blog/static/media/prometheus.fdab36a2b075965adeee9239ffa5390d.svg",
     "index.html": "/prometheus-blog/index.html",
     "main.534e3cd9.css.map": "/prometheus-blog/static/css/main.534e3cd9.css.map",
-    "main.497ba7b1.js.map": "/prometheus-blog/static/js/main.497ba7b1.js.map"
+    "main.5cabe275.js.map": "/prometheus-blog/static/js/main.5cabe275.js.map"
   },
   "entrypoints": [
     "static/css/main.534e3cd9.css",
-    "static/js/main.497ba7b1.js"
+    "static/js/main.5cabe275.js"
   ]
 }

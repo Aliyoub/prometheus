@@ -3,8 +3,9 @@
 <Code language="bash">
 sudo apt-get update
 </Code>
-
+<p style="width: 300px">
 ![Image](https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png)
+</p>
 
 <Code language="javascript">
 //strings
