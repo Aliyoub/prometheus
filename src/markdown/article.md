@@ -4,7 +4,7 @@
 sudo apt-get update
 </Code>
 
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-update.png" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-update.png" style="width:100%;  margin-bottom:50px"/>
 
 
 <span style="color:#E6522B"> Installation de Prometheus </span>
@@ -12,7 +12,7 @@ sudo apt-get update
 sudo apt-get install prometheus
 </Code>
 
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;  margin-bottom:50px"/>
 
 
 <span style="color:#E6522B">Instanciation de la machine virtuelle</span>
@@ -20,20 +20,20 @@ sudo apt-get install prometheus
 sudo vagrant up
 </Code>
 
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-up.png" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-up.png" style="width:100%;  margin-bottom:50px"/>
 
 <span style="color:#E6522B">Affichage de la machine virtuelle définie depuis le fichier Vagrantfile</span>
 <Code language="bash">
 sudo vagrant virtualbox
 </Code>
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-in-virtualbox.png" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-in-virtualbox.png" style="width:100%;  margin-bottom:50px"/>
 
 
 <span style="color:#E6522B">Accès à la machine virtuelle par ssh</span>
 <Code language="bash">
 sudo vagrant ssh prometheus
 </Code>
-<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-ssh-prometheus.png" style="width:100%; margin-bottom:20px"/>
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/vagrant-ssh-prometheus.png" style="width:100%; margin-bottom:50px"/>
 
 
 <Code language="javascript">
