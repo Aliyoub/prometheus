@@ -4,6 +4,26 @@
 sudo apt-get update
 </Code>
 
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-update.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-in-virtualbox.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
+<img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
+
 <img src="https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/apt-get-install-prometheus.png" style="width:100%;"/>
 
 <Code language="javascript">
