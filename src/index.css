@@ -61,7 +61,8 @@ header .logo span {
 
 header .logo span.title {
  font-size: 2rem;
- color: #E6522B
+ color: #E6522B;
+ font-weight: bold;
 }
 
 /* Post */
