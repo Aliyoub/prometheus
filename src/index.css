@@ -24,7 +24,7 @@ button.icon {
   cursor: pointer;
 }
 .container {
-  max-width: 50rem;
+  max-width: 80rem;
   margin: 0 auto;
   padding: 0 0.5rem 0 0.5rem;
   display: flex;
