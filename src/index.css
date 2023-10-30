@@ -96,9 +96,16 @@ header .logo span.title {
   margin-bottom: 4rem;
 }
 
+.CopiedIcon {
+  background-color:#E6522B; color:#FFFFFF; padding: 5px
+}
+
 .introduction {
   background-color: #FAFAFA;
-  padding: 10px;
+  padding: 15px;
   color: #91A3AE;
   margin-bottom: 4rem;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5rem;
+  text-align: justify;
 }

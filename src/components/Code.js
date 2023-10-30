@@ -3,7 +3,7 @@ import CopyToClipboard from 'react-copy-to-clipboard';
 import { PrismLight as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { materialDark, materialLight } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import { ThemeContext } from '../App';
-import { CopyIcon, PasteIcon } from './assets/icons';
+import { CopyIcon, CopiedIcon } from './assets/icons';
 
 const Code = ({ children, language }) => {
   const [copied, setCopied] = useState(false);
@@ -20,7 +20,7 @@ const Code = ({ children, language }) => {
     <div className="code">
       <CopyToClipboard text={children} onCopy={() => setCopied(true)}>
         <button className='icon copy-icon'>
-          {copied ? <PasteIcon /> : <CopyIcon />}
+          {copied ? <CopiedIcon /> : <CopyIcon />}
         </button>
       </CopyToClipboard>
       <SyntaxHighlighter
