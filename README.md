@@ -37,3 +37,7 @@
 > _sudo systemctl status prometheus_
 
 ![alt Vérification de l'état du service Prometheus](https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-status.png)
+
+
+#### Affichage de l'interface Prometheus
+![alt Affichage de l'interface Prometheus](https://raw.githubusercontent.com/Aliyoub/prometheus-blog/main/src/components/assets/images/prometheus-interface.png)
